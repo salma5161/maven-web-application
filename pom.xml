@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://3.110.88.216:8081/repository/mss-release-repo/</url>
+	      <url>http://65.0.176.64:8081/repository/mss-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://3.110.88.216:8081/repository/mss-snapshot-repo/</url>
+	      <url>http://65.0.176.64:8081/repository/mss-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
